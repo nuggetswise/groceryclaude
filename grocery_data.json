@@ -1,0 +1,232 @@
+{
+  "version": "2.0",
+  "current": {
+    "date": "2025-10-31",
+    "items": []
+  },
+  "history": [
+    {
+      "id": "300d7725-b4a6-4134-8aa0-f77f31e0c4b9",
+      "date": "2025-10-30",
+      "completedAt": "2025-10-31T10:46:34.950901",
+      "items": [
+        {
+          "id": "a15837f5-8a83-4a49-ba33-7e715bd7d022",
+          "name": "Dahi",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T10:08:37.664593",
+          "checkedAt": null
+        },
+        {
+          "id": "dfccdbc0-b14e-4199-a82c-4f699a5a6569",
+          "name": "Milk",
+          "category": "Dairy",
+          "checked": true,
+          "addedAt": "2025-10-31T10:08:37.664646",
+          "checkedAt": "2025-10-31T10:09:01.786555"
+        },
+        {
+          "id": "ff4542a4-d6fe-406f-8495-7b58eae0c69b",
+          "name": "Eggs",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T10:08:37.664673",
+          "checkedAt": null
+        },
+        {
+          "id": "4339bc2e-0d63-47a5-a7d9-62a630a2d3d9",
+          "name": "Yop",
+          "category": "Beverages",
+          "checked": true,
+          "addedAt": "2025-10-31T10:08:37.664688",
+          "checkedAt": "2025-10-31T10:08:59.636453"
+        },
+        {
+          "id": "e8fb8436-0de5-4e7c-8033-d3d1057ff7f9",
+          "name": "Diapers",
+          "category": "Household",
+          "checked": true,
+          "addedAt": "2025-10-31T10:08:37.664700",
+          "checkedAt": "2025-10-31T10:09:05.922966"
+        },
+        {
+          "id": "3af5e761-febd-4ee9-b68b-5cc981de41e3",
+          "name": "Wipes",
+          "category": "Household",
+          "checked": false,
+          "addedAt": "2025-10-31T10:08:37.664711",
+          "checkedAt": null
+        }
+      ],
+      "totalItems": 6,
+      "checkedItems": 3
+    },
+    {
+      "id": "950bb5dc-71ff-4315-97fe-0deaf7f642ed",
+      "date": "2025-10-31",
+      "completedAt": "2025-10-31T10:47:59.435299",
+      "items": [
+        {
+          "id": "0ad76ca8-d7cd-4fd2-af7d-af7bee3aa275",
+          "name": "Bananas",
+          "category": "Produce",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:18.970402",
+          "checkedAt": null
+        },
+        {
+          "id": "aaab5d24-d3b1-44d1-84ce-6849c1d61b51",
+          "name": "Chicken",
+          "category": "Meat & Seafood",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:18.970435",
+          "checkedAt": null
+        },
+        {
+          "id": "56382479-475b-4ce0-83fe-d4ad206b0466",
+          "name": "Dahi",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463097",
+          "checkedAt": null
+        },
+        {
+          "id": "34e037f2-e766-4e69-8c9e-293e97dfd26e",
+          "name": "Milk",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463110",
+          "checkedAt": null
+        },
+        {
+          "id": "ab18c7a1-a5e1-4e34-8ab1-5c9a6d277d22",
+          "name": "Eggs",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463115",
+          "checkedAt": null
+        },
+        {
+          "id": "1f0ed2ca-f85b-4181-9d23-ef1d79e51c1f",
+          "name": "Yop",
+          "category": "Beverages",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463119",
+          "checkedAt": null
+        },
+        {
+          "id": "9fc7d856-1480-42f7-8ae6-0bd97a347099",
+          "name": "Diapers",
+          "category": "Household",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463124",
+          "checkedAt": null
+        },
+        {
+          "id": "b20e386c-f9c9-47b0-b6fe-2a9a791b6a1b",
+          "name": "Wipes",
+          "category": "Household",
+          "checked": false,
+          "addedAt": "2025-10-31T10:47:35.463128",
+          "checkedAt": null
+        }
+      ],
+      "totalItems": 8,
+      "checkedItems": 0
+    },
+    {
+      "id": "4356d0cf-7793-4428-b13a-1d70aa020d23",
+      "date": "2025-10-31",
+      "completedAt": "2025-10-31T11:18:01.742731",
+      "items": [
+        {
+          "id": "910b896f-0d26-417a-baeb-0a00a430d8a0",
+          "name": "Bananas",
+          "category": "Produce",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702756",
+          "checkedAt": null
+        },
+        {
+          "id": "6a113c2e-4257-4848-8b03-8996d306e088",
+          "name": "Chicken",
+          "category": "Meat & Seafood",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702796",
+          "checkedAt": null
+        },
+        {
+          "id": "80d0879f-bbd8-4372-86bb-0b3a9dceb07c",
+          "name": "Dahi",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702814",
+          "checkedAt": null
+        },
+        {
+          "id": "5fb4f4b6-ffee-482c-8f0d-6c460c36aebe",
+          "name": "Milk",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702826",
+          "checkedAt": null
+        },
+        {
+          "id": "ea104654-2893-4160-8dec-054751ea2a60",
+          "name": "Eggs",
+          "category": "Dairy",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702836",
+          "checkedAt": null
+        },
+        {
+          "id": "90dc7cf1-feb4-4ff0-8c3b-33fc3983bda2",
+          "name": "Yop",
+          "category": "Beverages",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702845",
+          "checkedAt": null
+        },
+        {
+          "id": "7f6971e1-c73e-4def-be21-07bdf690b6af",
+          "name": "Diapers",
+          "category": "Household",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702854",
+          "checkedAt": null
+        },
+        {
+          "id": "51005467-5e76-40de-b008-d1391853a8d2",
+          "name": "Wipes",
+          "category": "Household",
+          "checked": false,
+          "addedAt": "2025-10-31T11:17:55.702868",
+          "checkedAt": null
+        }
+      ],
+      "totalItems": 8,
+      "checkedItems": 0
+    }
+  ],
+  "itemStats": {
+    "Milk": {
+      "lastBought": "2025-10-31T10:46:34.950901",
+      "totalPurchases": 1,
+      "averageFrequency": null,
+      "category": "Dairy"
+    },
+    "Yop": {
+      "lastBought": "2025-10-31T10:46:34.950901",
+      "totalPurchases": 1,
+      "averageFrequency": null,
+      "category": "Beverages"
+    },
+    "Diapers": {
+      "lastBought": "2025-10-31T10:46:34.950901",
+      "totalPurchases": 1,
+      "averageFrequency": null,
+      "category": "Household"
+    }
+  }
+}
